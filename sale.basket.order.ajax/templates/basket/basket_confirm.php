@@ -69,6 +69,7 @@ if (!empty($_REQUEST["ORDER_ID"]))
 }
 else
 {
+	//coo
 	?>
 	<b><?=GetMessage("SOA_TEMPL_ERROR_ORDER")?></b><br /><br />
 
